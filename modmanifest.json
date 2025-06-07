@@ -1,0 +1,12 @@
+{
+  "UniqueModName": "NBKRedSpy_QM_UnityExplorer",
+  "Assemblies": [
+    "QM_UnityExplorer.dll"
+  ],
+  "Dependencies": [],
+    "SteamTags": [
+    "0.9.1",
+    "0.9",
+    "Utility"
+  ]
+}
