@@ -21,7 +21,7 @@ namespace QM_UnityExplorer
             {
                 CreateRestartMessage(),
                 CreateConfigProperty(nameof(ModConfig.Enabled),
-                    @"If true, will load the Unity Explorer.  This allow disabling the utility without uinstalling the mod.")
+                    @"If true, will load the Unity Explorer.  This allow disabling the utility without uninstalling the mod.")
             }, OnSave);
         }
     }
